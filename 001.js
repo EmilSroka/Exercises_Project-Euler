@@ -7,7 +7,6 @@ function multiplesOf3and5(number) {
 }
 
 /* helper */
-
 function sumMultiplesOfN(n, limit) {
     let sum = 0;
     for(let i=n; i<limit; i+=n){

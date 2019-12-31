@@ -12,7 +12,7 @@ function largestPalindromeProduct(n) {
     return Math.max(...palindromes);
 }
   
-
+/* helper */
 function isPalindrome(number){
     let asString = String(number);
     let reversed = [...asString].reverse().join('');
