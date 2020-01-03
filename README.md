@@ -11,3 +11,4 @@ Problem set:
 5. Smallest multiple
 6. Sum square difference
 7. 10001st prime
+8. Largest product in a series
