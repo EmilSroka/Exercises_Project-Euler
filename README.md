@@ -13,3 +13,4 @@ Problem set:
 7. 10001st prime
 8. Largest product in a series
 9. Special Pythagorean triplet
+10. Summation of primes

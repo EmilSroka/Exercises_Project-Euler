@@ -11,7 +11,7 @@ function specialPythagoreanTriplet(sumOfabc) {
        for(let a=1;a<sum;a++){
            for(let b=a;b<sum;b++){
                let c = sum - a -b;
-               yield [a, b, c];
+               if(c > 0) yield [a, b, c];
            }
        }
    }
